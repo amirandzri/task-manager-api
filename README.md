@@ -64,3 +64,26 @@ task-manager-api/
 - Using Postman for API testing
 - Writing clean, maintainable backend code
 - Proper Git and GitHub workflow
+
+
+## Screenshots of Postman
+
+### Postman - Get All Tasks
+![Postman GET](./assets/postman-GET.png)
+
+### Postman - Create Task
+![Postman POST](./assets/postman-POST.png)
+
+### Postman - Update Task
+![Postman PUT](./assets/postman-UPDATE.png)
+
+## Screenshots of MongoDB
+
+### MongoDB - All Tasks
+![MongoDB tasks list](./assets/mongodb-GET.png)
+
+### MongoDB - New Task
+![MongoDB new task](./assets/mongodb-POST.png)
+
+### MongoDB - Update Task
+![MongoDB task updated](./assets/mongodb-UPDATE.png)
